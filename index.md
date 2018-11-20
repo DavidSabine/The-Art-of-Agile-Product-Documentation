@@ -53,8 +53,8 @@ Attendees will:
 
 ## Session Timebox
 
-Minimum (recommended): 45 minutes
-Maximum (recommended): 75 minutes
+- Minimum (recommended): 45 minutes
+- Maximum (recommended): 75 minutes
 
 
 ## Target Audience
