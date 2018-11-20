@@ -16,7 +16,7 @@ I have developed this workshop to help an organization reframe their understandi
 1. Facilitator's Guide [HTML][DOCX]
 2. Facilitator's Presentation [PPTX]
 3. Canvas &amp; Print Materials [PDF]
-4. Issues for Discussion/FAQ
+4. [Issues for Discussion/FAQ](//github.com/DavidSabine/The-Art-of-Agile-Product-Documentation/issues/new)
 
 
 ## How to Use
