@@ -57,7 +57,7 @@ Minimum (recommended): 45 minutes
 Maximum (recommended): 75 minutes
 
 
-#Target Audience
+## Target Audience
 
 Intermediate to Advanced.  This session is designed for a broad audience, including auditors, managers, agile team members and their stakeholders.
 
