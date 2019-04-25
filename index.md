@@ -11,12 +11,11 @@ Agile Engineering practices have revolutionized the ways in which documentation 
 I have developed this workshop to help an organization reframe their understanding of documentation with respect to knowledge work in complex environments so that they may eliminate unnecessary artifacts and simplify/automate others.
 
 
-## In this Repository
+## Downloads
 
 1. Facilitator's Guide [DOCX](//github.com/DavidSabine/The-Art-of-Agile-Product-Documentation/raw/master/assets/The%20Art%20of%20Agile%20Documentation%20%E2%80%94%20Workshop%20Facilitators'%20Guide%20%E2%80%94%20by%20David%20Sabine.docx)
 2. Facilitator's Presentation [PPTX]
 3. Canvas &amp; Print Materials [PDF](//github.com/DavidSabine/The-Art-of-Agile-Product-Documentation/blob/master/assets/The%20Art%20of%20Agile%20Documentation%20—%20Workshop%20Assets%20%26%20Print%20Materials%20—%20by%20David%20Sabine.pdf)
-4. [Issues for Discussion/FAQ](//github.com/DavidSabine/The-Art-of-Agile-Product-Documentation/issues/new)
 
 
 ## How to Use
